@@ -2,7 +2,7 @@
 
 Portfólio independente do site de moda feminina no atacado da Gabriel Atacado Boutique.
 
-**Prévia do site:** https://id-preview--509144e8-7319-47ab-80bf-678dee2df9c1.lovable.app  
+**Prévia do site:** https://gabriel-atacado-boutique.lovable.app/  
 **Editar no Lovable:** https://lovable.dev/projects/509144e8-7319-47ab-80bf-678dee2df9c1
 
 ## Projeto
